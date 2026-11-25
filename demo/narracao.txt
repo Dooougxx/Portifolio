@@ -1,0 +1,13 @@
+Roteiro de narração — vídeo demonstração Nala Clinic (PT-BR, ~75 s)
+Uma fala por cena; gere cada uma como um arquivo separado (01.mp3 ... 10.mp3).
+
+01 Abertura: Esta é a nova landing page da Nala Clinic. Em pouco mais de um minuto, veja como ela transforma visitas em agendamentos.
+02 Primeira impressão: A primeira impressão traduz a identidade da marca: bronze, dourado e creme, com uma cena em 3D que transmite sofisticação.
+03 Conversão: O botão principal abre o WhatsApp da clínica com a mensagem pronta. Menos atrito, mais agendamentos.
+04 Tratamentos: Os seis tratamentos aparecem em cartões 3D. Cada um tem um botão próprio, então a equipe já sabe qual serviço a cliente quer.
+05 Posicionamento: O posicionamento da Nala, naturalidade, técnica e responsabilidade, ganha uma página que transmite confiança.
+06 Jornada e ofertas: A jornada de atendimento responde às dúvidas antes que elas apareçam. E há um espaço de destaque para campanhas e para o grupo VIP.
+07 Google: As perguntas frequentes usam dados estruturados, ajudando a clínica a se destacar no Google nas buscas por estética em Sumaré.
+08 Captação: O formulário leva vinte segundos e vira uma conversa no WhatsApp. Nenhum dado fica guardado no site, em linha com a LGPD.
+09 Celular: Tudo foi pensado primeiro para o celular, de onde vem a maior parte do tráfego do Instagram e do Google Ads.
+10 Encerramento: Resultado: uma página bonita, rápida, segura e mensurável, pronta para atrair e converter novas clientes. Nala Clinic. Beleza natural, feita para você.
