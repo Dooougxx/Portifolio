@@ -1,0 +1,98 @@
+Roteiro de narração — vídeo demonstração Jessiel Estilo Masculino (PT-BR, 1:58)
+Vídeo: demo/jessiel-demo.mp4 (1280x720, sem áudio)
+
+Como usar:
+- Gere cada fala como um arquivo separado (01.mp3 ... 14.mp3) e posicione no "Início".
+- O áudio de cada fala deve caber no "Tempo máx."; se passar, acelere levemente (até 1,1x).
+- Voz sugerida: masculina, grave, calma e confiante (tom de loja premium).
+- "Legenda na tela" é o texto que já aparece no topo do vídeo, para referência.
+
+------------------------------------------------------------------------
+
+01  Início 0:00  ·  Tempo máx. 4,5 s  ·  Abertura
+Narração: Esta é a nova vitrine online da Jessiel Estilo Masculino.
+Legenda na tela: Jessiel Estilo Masculino ganhou uma vitrine online feita para vender
+
+02  Início 0:05  ·  Tempo máx. 4 s  ·  Primeira impressão
+Narração: A identidade da marca ganha vida em 3D.
+Legenda na tela: Primeira impressão: a identidade da marca em uma cena 3D que reage ao mouse
+
+03  Início 0:09  ·  Tempo máx. 5 s  ·  WhatsApp
+Narração: Um toque, e o cliente já está no WhatsApp da loja.
+Legenda na tela: Botões de WhatsApp com mensagem pronta: um toque e o cliente já fala com a loja
+
+04  Início 0:14  ·  Tempo máx. 15 s  ·  Coleção
+Narração: A coleção aparece em cartões 3D: camisas, blazers, calças, polos, bermudas e calçados. Cada botão envia uma mensagem pronta, e a loja já sabe exatamente o que o cliente procura.
+Legenda na tela: Coleção em cards 3D: cada botão avisa a loja exatamente o que o cliente procura
+
+05  Início 0:29  ·  Tempo máx. 14 s  ·  Lookbook 3D
+Narração: No lookbook, os looks reais da loja giram em um carrossel 3D. O cliente arrasta, escolhe o que gostou e pede pelo WhatsApp, sem sair da página.
+Legenda na tela: Lookbook 3D com looks reais: o cliente gira, escolhe e pede pelo WhatsApp
+
+06  Início 0:43  ·  Tempo máx. 8 s  ·  Ocasiões
+Narração: As festas de fim de ano ganham destaque, prontas para campanhas no Google Ads.
+Legenda na tela: Festas de fim de ano em destaque: pronto para campanhas sazonais no Google Ads
+
+07  Início 0:51  ·  Tempo máx. 5,5 s  ·  Diferenciais
+Narração: Provar antes de levar e reservar pelo WhatsApp: argumentos que vendem.
+Legenda na tela: Argumentos de venda claros: provar antes de levar e reservar pelo WhatsApp
+
+08  Início 0:56  ·  Tempo máx. 10 s  ·  Reserva
+Narração: A reserva leva vinte segundos e vira uma conversa no WhatsApp. Nenhum dado fica guardado no site, em linha com a LGPD.
+Legenda na tela: Reserva em 20 segundos: vira conversa no WhatsApp, sem guardar dados (LGPD)
+
+09  Início 1:06  ·  Tempo máx. 6 s  ·  Visite a loja
+Narração: Endereço, horário e Google Maps levam o cliente até a porta da loja.
+Legenda na tela: Endereço, horário e Google Maps: o site leva o cliente até a porta da loja
+
+10  Início 1:12  ·  Tempo máx. 6 s  ·  Google
+Narração: As perguntas frequentes ajudam a loja a se destacar no Google.
+Legenda na tela: Perguntas frequentes com dados estruturados: mais destaque nas buscas do Google
+
+11  Início 1:18  ·  Tempo máx. 4,5 s  ·  Chamada final
+Narração: E nenhum visitante sai sem um próximo passo.
+Legenda na tela: Chamada final: nenhum visitante sai da página sem um próximo passo
+
+12  Início 1:23  ·  Tempo máx. 18 s  ·  Celular
+Narração: Tudo foi pensado primeiro para o celular, de onde vem a maior parte do tráfego do Instagram e dos anúncios. A página é rápida, leve e fácil de usar com uma mão só.
+Legenda na tela: Feita primeiro para o celular, de onde vem o tráfego do Instagram e dos anúncios
+
+13  Início 1:41  ·  Tempo máx. 12,5 s  ·  Impacto no marketing
+Narração: O resultado: mais visibilidade no Google, anúncios com retorno medido, um Instagram que converte e mais clientes visitando a loja.
+Legenda na tela: Resultado: mais visibilidade no Google, anúncios mensuráveis e mais clientes na loja
+
+14  Início 1:53  ·  Tempo máx. 4,5 s  ·  Encerramento
+Narração: Jessiel Estilo Masculino. Invista na sua imagem.
+Legenda na tela: Jessiel Estilo Masculino · Portal Bordon, Sumaré-SP
+
+------------------------------------------------------------------------
+
+Texto corrido (para gravar em um único arquivo, com pausa de ~1 s entre os parágrafos):
+
+Esta é a nova vitrine online da Jessiel Estilo Masculino.
+
+A identidade da marca ganha vida em 3D.
+
+Um toque, e o cliente já está no WhatsApp da loja.
+
+A coleção aparece em cartões 3D: camisas, blazers, calças, polos, bermudas e calçados. Cada botão envia uma mensagem pronta, e a loja já sabe exatamente o que o cliente procura.
+
+No lookbook, os looks reais da loja giram em um carrossel 3D. O cliente arrasta, escolhe o que gostou e pede pelo WhatsApp, sem sair da página.
+
+As festas de fim de ano ganham destaque, prontas para campanhas no Google Ads.
+
+Provar antes de levar e reservar pelo WhatsApp: argumentos que vendem.
+
+A reserva leva vinte segundos e vira uma conversa no WhatsApp. Nenhum dado fica guardado no site, em linha com a LGPD.
+
+Endereço, horário e Google Maps levam o cliente até a porta da loja.
+
+As perguntas frequentes ajudam a loja a se destacar no Google.
+
+E nenhum visitante sai sem um próximo passo.
+
+Tudo foi pensado primeiro para o celular, de onde vem a maior parte do tráfego do Instagram e dos anúncios. A página é rápida, leve e fácil de usar com uma mão só.
+
+O resultado: mais visibilidade no Google, anúncios com retorno medido, um Instagram que converte e mais clientes visitando a loja.
+
+Jessiel Estilo Masculino. Invista na sua imagem.
